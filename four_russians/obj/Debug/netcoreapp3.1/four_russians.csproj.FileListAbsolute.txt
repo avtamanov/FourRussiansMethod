@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\four_russians\four_russians\bin\Debug\netcoreapp3.1\four_russians.exe
+C:\Users\User\source\repos\four_russians\four_russians\bin\Debug\netcoreapp3.1\four_russians.deps.json
+C:\Users\User\source\repos\four_russians\four_russians\bin\Debug\netcoreapp3.1\four_russians.runtimeconfig.json
+C:\Users\User\source\repos\four_russians\four_russians\bin\Debug\netcoreapp3.1\four_russians.runtimeconfig.dev.json
+C:\Users\User\source\repos\four_russians\four_russians\bin\Debug\netcoreapp3.1\four_russians.dll
+C:\Users\User\source\repos\four_russians\four_russians\bin\Debug\netcoreapp3.1\four_russians.pdb
+C:\Users\User\source\repos\four_russians\four_russians\obj\Debug\netcoreapp3.1\four_russians.csprojAssemblyReference.cache
+C:\Users\User\source\repos\four_russians\four_russians\obj\Debug\netcoreapp3.1\four_russians.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\four_russians\four_russians\obj\Debug\netcoreapp3.1\four_russians.AssemblyInfo.cs
+C:\Users\User\source\repos\four_russians\four_russians\obj\Debug\netcoreapp3.1\four_russians.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\four_russians\four_russians\obj\Debug\netcoreapp3.1\four_russians.dll
+C:\Users\User\source\repos\four_russians\four_russians\obj\Debug\netcoreapp3.1\four_russians.pdb
+C:\Users\User\source\repos\four_russians\four_russians\obj\Debug\netcoreapp3.1\four_russians.genruntimeconfig.cache
